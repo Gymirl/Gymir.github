@@ -1,0 +1,29 @@
+em{
+    color:rgb(229, 255, 0);
+}
+li{
+    color:blue;
+}
+h1{
+    color:red;
+}
+h2{
+    color:rgb(255, 153, 0);
+}
+strong{
+    color:cyan;
+}
+body{
+    width: 50em;
+    border: 1px solid white;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans', sans-serif;
+}
+    body {
+        background-color:gray;
+    }
+    body {
+        color:white
+    }
