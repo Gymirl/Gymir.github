@@ -50,3 +50,11 @@ body{
         background-color: transparent;
         text-decoration: underline;
       }
+    .elivs{
+        border: 1px solid blue;
+        padding: 1em;
+    }
+      .elvis strong,
+    .elivs em{
+        color:blue;
+    }
